@@ -3,3 +3,9 @@ html, body{
     height: 100%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+body{
+    background-color:rgb(147, 83, 177);
+    display: flex; /*Comportamento do elemento na página*/
+    font-family: Verdana;
+}
