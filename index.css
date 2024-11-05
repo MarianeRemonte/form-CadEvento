@@ -9,3 +9,15 @@ body{
     display: flex; /*Comportamento do elemento na página*/
     font-family: Verdana;
 }
+
+/*Estilização do container*/
+
+.Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 100%;
+}
+
+
