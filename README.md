@@ -99,3 +99,22 @@ A seguir, ilustra a imagem do resultado final do projeto:
 ![Resultado final do projeto - Imagem 1](img/infp.PNG)
 
 
+### Estilização
+
+O projeto foi estilizado, utilizando CSS3. Foi criado um arquivo main.css. Nesse arquivo constam configurações de estlo apresentadas a seguir:
+
+* Estilo de cores - A cor de fundo no projeto foi definida como segue:
+
+```
+.Form{
+    background-color: rgb(228, 188, 233);
+```
+
+```
+body{
+    background-color:rgb(147, 83, 177);
+```
+
+O elemento background-color foi utilizado con diferentes finalidades e cada parte do projeto, uma para definir o fundo total e outra como definição do fundo da caixa de cadastro.
+
+
