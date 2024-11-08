@@ -118,3 +118,11 @@ body{
 O elemento background-color foi utilizado con diferentes finalidades e cada parte do projeto, uma para definir o fundo total e outra como definição do fundo da caixa de cadastro.
 
 
+## Tecnologias
+
+* HTML5
+* CSS3
+* README
+* Git
+* Github
+
