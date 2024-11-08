@@ -96,7 +96,7 @@ Todos os elementos abaixo pertencem a aba do form:
 
 A seguir, ilustra a imagem do resultado final do projeto:
 
-![Resultado final do projeto - Imagem 1](img/infp.PNG)
+![Resultado final do projeto - Imagem 1](img/final.PNG)
 
 
 ### Estilização
