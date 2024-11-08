@@ -94,3 +94,8 @@ Todos os elementos abaixo pertencem a aba do form:
     padding-right: 70px;
 ```
 
+A seguir, ilustra a imagem do resultado final do projeto:
+
+![Resultado final do projeto - Imagem 1](img/infp.PNG)
+
+
