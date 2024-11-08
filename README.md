@@ -62,3 +62,21 @@ Além dos elementos do HTML5, também foram usados as propriedades do CSS3. Segu
 ![Imagem iustrando uso do elemento citado]()
 
 
+##### Outros
+
+Todos os itens abaixo foram usados na aba do container.
+
+* Display - Define comportamento dos elementos. Usado no Body e Container.
+* Justify-content - usada para alinhar os elementos ao longo do eixo principal em horizontal.
+* Align-items - Alinha os itens verticalmente
+* Width - Largura aplicada na ciaxa do projeto.
+* Height - Altura aplicada na caixa do projeto,
+
+```
+display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+```
+
