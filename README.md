@@ -132,3 +132,11 @@ O elemento background-color foi utilizado con diferentes finalidades e cada part
 [w3school](https://www.w3schools.com/cssref/css3_pr_justify-content.php) - Explica como usar propriedade Justify-content e align-itens. Também possui explicações sobre outras propriedades CSS e HTML. <br>
 [developer.mozilla CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow) - Explica as demais propriedades CSS <br>
 [developer.mozilla HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Attributes) - Explica as demais propriedades HTML <br>
+
+
+# Autora
+
+O projeto foi desenvolvido por:
+
+* Mariane Lima Remonte Viana.
+
