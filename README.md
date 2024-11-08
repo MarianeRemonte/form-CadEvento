@@ -35,3 +35,19 @@ Veja agora imagens dos elementos citados anteriormente:
 ![Imagem ilustrativa dos elementos sendo utilizados no código]()
 
 
+Além dos elementos do HTML5, também foram usados as propriedades do CSS3. Segue aqui as utilizadas no projeto:
+
+##### Cor
+
+* Background-color - Altera a cor do fundo do projeto.
+
+![Imagem iustrando uso do elemento citado]()
+
+* Box-shadow - Adicona sombra ao fundo de um container presente na composição.
+
+![Imagem iustrando uso do elemento citado]()
+
+* Color - Foi usado par mudar a cor do testo do título.
+
+![Imagem iustrando uso do elemento citado]())
+
