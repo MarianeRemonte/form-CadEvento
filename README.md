@@ -27,6 +27,8 @@ Foram usados os seguintes elementos:
 * H3 - Usado para inserir título no formulário.
 * Label - Dá nome para a área de escrita, seja e-mail ou senha.
 * Input -  Permite que o usuário escreva na página.
+* Select -  Cria um pequeno container com capacidade de armazenar opções de escolha
+* Option -  Cria uma opção para o select
 * Button -  Cria um botão clicável.
 * Textarea - Gera uma área para que o usuário escreva um texto maior que o pemitido no Input, como parágrafos.
 
