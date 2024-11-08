@@ -34,7 +34,7 @@ Foram usados os seguintes elementos:
 
 Veja agora imagens dos elementos citados anteriormente:
 
-![Imagem ilustrativa dos elementos sendo utilizados no código]()
+![Imagem ilustrativa dos elementos sendo utilizados no código](img/html.PNG)
 
 
 Além dos elementos do HTML5, também foram usados as propriedades do CSS3. Segue aqui as utilizadas no projeto:
