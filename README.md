@@ -55,11 +55,11 @@ Além dos elementos do HTML5, também foram usados as propriedades do CSS3. Segu
 
 * Text-align - Alinha texto de acordo com a função colocada junto.
 
-![Imagem iustrando uso do elemento citado]()
+![Imagem iustrando uso do elemento citado](img/T-al.PNG)
 
 * Font-family - Muda a fonte do texto.
 
-![Imagem iustrando uso do elemento citado]()
+![Imagem iustrando uso do elemento citado](img/T-f.PNG)
 
 
 ##### Outros
