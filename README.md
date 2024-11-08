@@ -80,3 +80,17 @@ display: flex;
     height: 100%;
 ```
 
+Todos os elementos abaixo pertencem a aba do form:
+
+
+* Padding - Afasta a borda (Padding-top apenas a define como afastar apenas a borda de cima.)
+* Border-radius - Arredonda a borda da caixa de login do projeto.
+
+```
+    padding: 30px;
+    padding: 30px;
+    padding-top: 0;
+    padding-left: 70px;
+    padding-right: 70px;
+```
+
